@@ -1,4 +1,4 @@
-# eth-scan-privkey-
+# eth-scan-privkey
 from web3.auto import w3
 from eth_account import Account
 from termux import api
